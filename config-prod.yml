@@ -1,2 +1,2 @@
-server:
-  port: 8003
+application:
+  info: configserver/config/prod version 1.0
